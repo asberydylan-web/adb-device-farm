@@ -177,7 +177,7 @@ QSplitter::handle:horizontal { width:2px; }
 QSplitter::handle:vertical { height:2px; }
 #tileOverlay { background:transparent; }
 #tileNum { color:#ffffff; font-size:15px; font-weight:bold; }
-#tileName { color:#f1f5f9; font-size:11px; font-weight:bold; }
+#tileName { color:#f1f5f9; font-size:20px; font-weight:bold; }
 #tileIp { color:#ffffff; font-size:10px; }
 #tileMeta { color:#dbe4f0; font-size:9px; }
 #tileNum[sel="true"], #tileName[sel="true"], #tileIp[sel="true"] { color:#7cc0ff; }
